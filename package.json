@@ -1,0 +1,11 @@
+{
+  "name": "learn-js-yosi-sanbercode",
+  "version": "1.0.0",
+  "description": "learn js yosikrisma sanbercode",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "yosikrisma",
+  "license": "ISC"
+}
